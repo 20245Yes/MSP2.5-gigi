@@ -38132,3 +38132,17 @@ left-choosing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729463079530 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzrHgAAAZKsCFMXAAAAAQAAAAEAAAAAAAAAAJvpG3Awnaxx7Gp9yrp1Osa_ZtX-PY7jYOpLQy1Hd9dU
+
+TUNNELS
+needed-dense.gl.at.ply.gg:4186 => 127.0.0.1:4186 (minecraft-bedrock)
+left-choosing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729463082657 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzrHgAAAZKsCFMXAAAAAQAAAAEAAAAAAAAAAJvpG3Awnaxx7Gp9yrp1Osa_ZtX-PY7jYOpLQy1Hd9dU
+
+TUNNELS
+needed-dense.gl.at.ply.gg:4186 => 127.0.0.1:4186 (minecraft-bedrock)
+left-choosing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
