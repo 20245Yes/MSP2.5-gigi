@@ -36120,3 +36120,20 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzrHgAAAZKr6zbAAAA
 TUNNELS
 needed-dense.gl.at.ply.gg:4186 => 127.0.0.1:4186 (minecraft-bedrock)
 left-choosing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729461184670 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzrHgAAAZKr6zbAAAAAAQAAAAEAAAAAAAAAAM_NpGgY24t25yle0gjXdDeZ0vDaqUYqUjP5bNBQYngj
+
+TUNNELS
+needed-dense.gl.at.ply.gg:4186 => 127.0.0.1:4186 (minecraft-bedrock)
+left-choosing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729461188594 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAzrHgAAAZKr63iMAAAAAQAAAAEAAAAAAAAAAJ38jEcj4Pl14Vj8w3m-rSoDudPWg8qCWYBY_2WyAn5v
+
+TUNNELS
+needed-dense.gl.at.ply.gg:4186 => 127.0.0.1:4186 (minecraft-bedrock)
+left-choosing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
